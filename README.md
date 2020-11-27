@@ -5,3 +5,7 @@ Curso de Procesamiento de Lenguaje Natural cursado en el semestre de Primavera 2
 
 Enunciado de la Tarea 1:
 https://github.com/dccuchile/CC6205/blob/master/assignments/assignment_1/assignment_1.ipynb
+
+Las entregas consistían en archivos de Jupyter Notebook
+
+Todavía no subo todas las tareas que hice
